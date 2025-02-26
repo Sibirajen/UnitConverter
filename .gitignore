@@ -1,0 +1,55 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+logs/
+log/
+
+# Target folder
+target/
+out/
+
+# IDE-specific files
+### IntelliJ ###
+.idea/
+*.iml
+*.iws
+
+### VS Code ###
+.vscode/
+
+# Maven dependencies
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+
+# Node modules (if using any JS dependencies)
+node_modules/
+
+# Environment and secrets
+.env
+.env.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# JetBrains Cache
+*.swp
+*.swo
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Miscellaneous
+*.bak
+*.tmp
